@@ -1,0 +1,397 @@
+{
+    "flat_sale_ads": [
+        {
+            "address": {
+                "house": "30",
+                "street": "Староконюшенный пер."
+            },
+            "floor": {
+                "floor_num": "10",
+                "floor_ttl": "12"
+            },
+            "floor_area": {
+                "area_1": "35",
+                "area_2": "21",
+                "kitchen": "10"
+            },
+            "metro": [
+                "Арбатская",
+                "Кропоткинская"
+            ],
+            "price": "45 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "557-00-73"
+            ]
+        },
+        {
+            "address": {
+                "house": "15/43",
+                "street": "ул.Арбат"
+            },
+            "floor": {
+                "floor_num": "4",
+                "floor_ttl": "6"
+            },
+            "floor_area": {
+                "area_1": "53",
+                "area_2": "20",
+                "area_3": "13"
+            },
+            "metro": [
+                "Арбатская"
+            ],
+            "price": "130 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "762-55-67"
+            ]
+        },
+        {
+            "address": {
+                "house": "14",
+                "street": "ул.Б.Грузинская"
+            },
+            "floor": {
+                "floor_num": "2",
+                "floor_ttl": "14"
+            },
+            "floor_area": {
+                "area_1": "36",
+                "area_2": "20.2",
+                "kitchen": "8.3"
+            },
+            "metro": [
+                "Баррикадная"
+            ],
+            "rooms": "1",
+            "telephone": [
+                "962-30-63"
+            ]
+        },
+        {
+            "address": {
+                "house": "3/22",
+                "street": "Аптекарский пер."
+            },
+            "floor_area": {
+                "area_1": "30",
+                "area_2": "16.2",
+                "kitchen": "8"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "price": "27 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "737-76-67",
+                "265-23-31"
+            ]
+        },
+        {
+            "floor": {
+                "floor_num": "8",
+                "floor_ttl": "8"
+            },
+            "floor_area": {
+                "area_1": "45",
+                "area_2": "22",
+                "kitchen": "10",
+                "recessed_balcony": "3"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "rooms": "1",
+            "telephone": [
+                "279-52-79"
+            ]
+        },
+        {
+            "floor": {
+                "floor_num": "3",
+                "floor_ttl": "9"
+            },
+            "floor_area": {
+                "area_1": "33",
+                "area_2": "22",
+                "kitchen": "6"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "rooms": "1",
+            "telephone": [
+                "405-50-68"
+            ]
+        },
+        {
+            "address": {
+                "house": "18",
+                "street": "ул.Спартаковская"
+            },
+            "floor": {
+                "floor_num": "9",
+                "floor_ttl": "12"
+            },
+            "floor_area": {
+                "area_1": "36",
+                "area_2": "20,5",
+                "area_3": "10,5"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "rooms": "1",
+            "telephone": [
+                "125-68-31"
+            ]
+        },
+        {
+            "address": {
+                "house": "8",
+                "street": "Госпитальный пер."
+            },
+            "floor": {
+                "floor_num": "11",
+                "floor_ttl": "12"
+            },
+            "floor_area": {
+                "area_1": "36",
+                "area_2": "19.8",
+                "kitchen": "9.8"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "price": "23 тыс.$",
+            "telephone": [
+                "133-61-00"
+            ]
+        },
+        {
+            "address": {
+                "street": "ул.М.Почтовая"
+            },
+            "floor": {
+                "floor_num": "2",
+                "floor_ttl": "8"
+            },
+            "floor_area": {
+                "area_1": "44",
+                "area_2": "21",
+                "kitchen": "13.5"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "price": "60 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "189-65-88"
+            ]
+        },
+        {
+            "address": {
+                "street": "Токмаков пер."
+            },
+            "floor": {
+                "floor_num": "6",
+                "floor_ttl": "7"
+            },
+            "floor_area": {
+                "area_1": "28",
+                "area_2": "16",
+                "kitchen": "5.5"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "price": "17тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "978-92-94"
+            ]
+        },
+        {
+            "address": {
+                "house": "18/20, корп. 16",
+                "street": "ул. Б. Почтовая"
+            },
+            "floor": {
+                "floor_num": "5",
+                "floor_ttl": "5"
+            },
+            "floor_area": {
+                "area_1": "34",
+                "area_2": "15",
+                "kitchen": "7"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "price": "23.5 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "218-59-90"
+            ]
+        },
+        {
+            "address": {
+                "street": "Плетешковский пер."
+            },
+            "floor": {
+                "floor_num": "3",
+                "floor_ttl": "12"
+            },
+            "floor_area": {
+                "area_1": "35",
+                "area_2": "20",
+                "kitchen": "10"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "rooms": "1",
+            "telephone": [
+                "322-70-36"
+            ]
+        },
+        {
+            "address": {
+                "house": "2, корп.1",
+                "street": "ул.Волочаевская"
+            },
+            "floor": {
+                "floor_num": "11",
+                "floor_ttl": "12"
+            },
+            "floor_area": {
+                "area_1": "31",
+                "area_2": "15",
+                "kitchen": "8"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "price": "23 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "361-47-62"
+            ]
+        },
+        {
+            "address": {
+                "house": "7",
+                "street": "Денисовский пер."
+            },
+            "floor": {
+                "floor_num": "5",
+                "floor_ttl": "5"
+            },
+            "floor_area": {
+                "area_1": "33.6",
+                "area_2": "18.6",
+                "kitchen": "6"
+            },
+            "metro": [
+                "Бауманская"
+            ],
+            "price": "21 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "966-54-29"
+            ]
+        },
+        {
+            "address": {
+                "house": "5",
+                "street": "ул.Нижняя"
+            },
+            "floor": {
+                "floor_num": "3",
+                "floor_ttl": "5"
+            },
+            "floor_area": {
+                "area_1": "31,3",
+                "area_2": "13,4",
+                "kitchen": "9,2"
+            },
+            "metro": [
+                "Белорусская"
+            ],
+            "price": "25 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "318-94-49"
+            ]
+        },
+        {
+            "address": {
+                "house": "6",
+                "street": "ул.Верхняя"
+            },
+            "floor": {
+                "floor_num": "2",
+                "floor_ttl": "14"
+            },
+            "floor_area": {
+                "area_1": "43",
+                "area_2": "20",
+                "kitchen": "13"
+            },
+            "metro": [
+                "Белорусская"
+            ],
+            "price": "41.5 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "405-85-64"
+            ]
+        },
+        {
+            "address": {
+                "house": "34",
+                "street": "ул. Бутырский вал"
+            },
+            "floor": {
+                "floor_num": "12",
+                "floor_ttl": "12"
+            },
+            "floor_area": {
+                "area_1": "36",
+                "area_2": "20"
+            },
+            "metro": [
+                "Белорусская"
+            ],
+            "price": "28 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "299-96-51"
+            ]
+        },
+        {
+            "address": {
+                "street": "Б.Тишинский пер."
+            },
+            "floor": {
+                "floor_num": "2",
+                "floor_ttl": "6"
+            },
+            "floor_area": {
+                "area_1": "22",
+                "area_2": "15"
+            },
+            "metro": [
+                "Белорусская"
+            ],
+            "price": "18 тыс.$",
+            "rooms": "1",
+            "telephone": [
+                "253-30-92"
+            ]
+        }
+    ]
+}
