@@ -18,7 +18,10 @@
                 "Арбатская",
                 "Кропоткинская"
             ],
-            "price": "45 тыс.$",
+            "price": {
+                "amount": 45000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "557-00-73"
@@ -41,7 +44,10 @@
             "metro": [
                 "Арбатская"
             ],
-            "price": "130 тыс.$",
+            "price": {
+                "amount": 130000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "762-55-67"
@@ -82,7 +88,10 @@
             "metro": [
                 "Бауманская"
             ],
-            "price": "27 тыс.$",
+            "price": {
+                "amount": 27000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "737-76-67",
@@ -165,7 +174,10 @@
             "metro": [
                 "Бауманская"
             ],
-            "price": "23 тыс.$",
+            "price": {
+                "amount": 23000,
+                "currency": "USD"
+            },
             "telephone": [
                 "133-61-00"
             ]
@@ -186,7 +198,10 @@
             "metro": [
                 "Бауманская"
             ],
-            "price": "60 тыс.$",
+            "price": {
+                "amount": 60000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "189-65-88"
@@ -208,7 +223,10 @@
             "metro": [
                 "Бауманская"
             ],
-            "price": "17тыс.$",
+            "price": {
+                "amount": 17000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "978-92-94"
@@ -231,7 +249,10 @@
             "metro": [
                 "Бауманская"
             ],
-            "price": "23.5 тыс.$",
+            "price": {
+                "amount": 23500,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "218-59-90"
@@ -253,7 +274,10 @@
             "metro": [
                 "Бауманская"
             ],
-            "price": "28 тыс. у.е.",
+            "price": {
+                "amount": 28000,
+                "currency": "у.е."
+            },
             "rooms": "1",
             "telephone": [
                 "322-70-36"
@@ -276,7 +300,10 @@
             "metro": [
                 "Бауманская"
             ],
-            "price": "23 тыс.$",
+            "price": {
+                "amount": 23000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "361-47-62"
@@ -299,7 +326,10 @@
             "metro": [
                 "Бауманская"
             ],
-            "price": "21 тыс.$",
+            "price": {
+                "amount": 21000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "966-54-29"
@@ -318,7 +348,10 @@
             "metro": [
                 "БАУМАНСКАЯ"
             ],
-            "price": "24.000$",
+            "price": {
+                "amount": 24000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "203-12-31",
@@ -342,7 +375,10 @@
             "metro": [
                 "БАУМАНСКАЯ"
             ],
-            "price": "27 500 дол.",
+            "price": {
+                "amount": 27500,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "924-59-92",
@@ -366,7 +402,10 @@
             "metro": [
                 "Белорусская"
             ],
-            "price": "25 тыс.$",
+            "price": {
+                "amount": 25000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "318-94-49"
@@ -389,7 +428,10 @@
             "metro": [
                 "Белорусская"
             ],
-            "price": "41.5 тыс.$",
+            "price": {
+                "amount": 41500,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "405-85-64"
@@ -411,7 +453,10 @@
             "metro": [
                 "Белорусская"
             ],
-            "price": "28 тыс.$",
+            "price": {
+                "amount": 28000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "299-96-51"
@@ -432,7 +477,10 @@
             "metro": [
                 "Белорусская"
             ],
-            "price": "18 тыс.$",
+            "price": {
+                "amount": 18000,
+                "currency": "USD"
+            },
             "rooms": "1",
             "telephone": [
                 "253-30-92"
